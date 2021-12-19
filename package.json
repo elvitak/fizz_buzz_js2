@@ -7,6 +7,6 @@
     "jest": "^27.4.5"
   },
   "scripts": {
-    "test": "jest --passWithnosTests --rootDir=spec"
+    "test": "jest --passWithNoTests --rootDir=spec"
   }
 }
